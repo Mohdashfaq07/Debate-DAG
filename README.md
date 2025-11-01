@@ -14,3 +14,6 @@ with memory and a local judge. No OpenAI key is required.
    pip install -r requirements.txt
 4. Run:
    python src/debate_graph.py --mock
+5. Demo video link:
+   https://drive.google.com/file/d/1U003u_XDjYqJ1WrRoS-Q0mHHyRq88RAE/view?usp=drivesdk
+   
